@@ -5,7 +5,7 @@
 - ⚡ Sou um iniciante no mundo dev.
 <div>
   <a href="https:"https://github.com/paulohenriqueo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rpaulohenriqueo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulohenriqueo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img marginbotton="15" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvieiramaximo&layout=compact&langs_count=16&theme=algolia"/>
 </div> 
 <div style="display: inline_block"><br>
