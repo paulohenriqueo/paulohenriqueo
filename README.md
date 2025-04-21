@@ -1,6 +1,6 @@
 ### Hi there 👋 Eu sou o Paulo Henrique
 
-- 🌱 Estou estudando JavaScript.
+- 🌱 Estou estudando Java.
 - 📫 Contate-me pelo e-mail: paulo.araujo300305@gmail.com
 - ⚡ Sou um iniciante no mundo dev.
 <div>
