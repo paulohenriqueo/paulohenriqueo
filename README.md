@@ -9,7 +9,7 @@
     <img marginbotton="15" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriqueo&layout=compact&langs_count=16&theme=algolia"/>
 </div> 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Paulo-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Paulo-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg">
   <img align="center" alt="Paulo-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img align="center" alt="Paulo-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Paulo-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
